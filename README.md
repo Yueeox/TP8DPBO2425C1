@@ -97,23 +97,25 @@ Basis data `tp_mvc25` terdiri dari dua tabel utama yang saling berelasi:
 ## 3. Dokumentasi
 
 1. Daftar Dosen <br>
-<img src="" alt="Daftar Dosen" width="500px"> 
+<img src="dokumentasi/DaftarDosen.png" alt="Daftar Dosen" width="500px"> 
 
 2. Form Tambah Dosen <br> 
-<img src="" alt="Form Tambah Dosen" width="500px"> 
+<img src="dokumentasi/TambahDosen.png" alt="Form Tambah Dosen" width="500px"> 
 
 3. Form Edit Dosen <br>
-<img src="" alt="Form Edit Dosen" width="500px"> 
+<img src="dokumentasi/EditDosen.png" alt="Form Edit Dosen" width="500px"> 
 
 4. Daftar Mata Kuliah <br>
-<img src="" alt="Daftar Matakuliah" width="500px"> 
+<img src="dokumentasi/DaftarMataKuliah.png" alt="Daftar Matakuliah" width="500px"> 
 
 5. Form Tambah Mata Kuliah <br>
-<img src="" alt="Form Tambah Mata Kuliah" width="500px"> 
+<img src="dokumentasi/TambahMataKuliah.png" alt="Form Tambah Mata Kuliah" width="500px"> 
 
 6. Form Edit Mata Kuliah <br>
-<img src="" alt="Form Edit Mata Kuliah" width="500px"> 
+<img src="dokumentasi/EditMataKuliah.png" alt="Form Edit Mata Kuliah" width="500px"> 
 
 7. Penghapusan Data <br>
-<img src="" alt="Penghapusan Data" width="500px"> 
+<img src="dokumentasi/PenghapusanData.png" alt="Penghapusan Data" width="500px"> 
 
+8. Link Record (Google Drive) <br>
+[Link](https://drive.google.com/file/d/1f1sRoMspjrtnDpZBoLaJAh5xAsfH47S3/view?usp=sharing)
