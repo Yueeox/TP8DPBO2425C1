@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <title>DATA_TITLE - Sistem Akademik</title>
+</head>
+<body>
+  <!-- navigasi utama aplikasi -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.php">Sistem Akademik</a>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link DATA_NAV_LECTURERS" href="index.php?page=lecturers">Lecturers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link DATA_NAV_COURSES" href="index.php?page=courses">Courses</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- konten utama tabel data -->
+  <div class="container my-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+      <h2>DATA_TITLE</h2>
+      DATA_ADD_BUTTON
+    </div>
+
+    <!-- tabel penyaji data -->
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table table-striped table-hover align-middle mb-0">
+            <thead class="table-dark">
+              DATA_THEAD
+            </thead>
+            <tbody>
+              DATA_TBODY
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="bootstrap.bundle.min.js"></script>
+</body>
+</html>
